@@ -1,0 +1,7 @@
+{
+  "name": "StitchCraft — Bespoke Atelier",
+  "description": "Redefining bespoke tailoring with Savile Row heritage, curated lookbook archives, handcrafted commissions, and precision fitting concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
